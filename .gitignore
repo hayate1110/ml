@@ -1,0 +1,4 @@
+*.tex
+out
+*.pkl
+log_loss.png
